@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #3914AF;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.amogu1 {
+    margin-top: 20px;
+    
+}
+
+.amogu2 {
+    max-height: 650px;
+    max-width: 650px;
+    margin-top: 20px;
+}
+
+.boba {
+    margin-top: 30px;
+    max-height: 650px;
+    max-width: 650px;
+}
+
+.bob2 {
+    max-height: 650px;
+    max-width: 650px;
+    margin-top: 20px;
+}
+
+.amoguss {
+    max-height: 650px;
+    max-width: 650px;
+}
